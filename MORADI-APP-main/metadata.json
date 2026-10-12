@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix El Mouradi Hotels - Kit UI Mobile Noir \u0026 Or",
+  "description": "Application mobile luxueuse et Kit UI Noir \u0026 Doré pour les Hôtels El Mouradi : réservation de séjours, navette aéroportuaire VIP, moyens de paiement multiples et promotion exclusive du Réveillon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
